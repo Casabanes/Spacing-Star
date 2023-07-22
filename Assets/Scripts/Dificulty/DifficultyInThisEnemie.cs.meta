@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: dae72db407a5a914fb80e5090d122911
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _startDifficulty: {fileID: 11400000, guid: ecf4eb53c4fbf664c9ef226b6d7b637f, type: 2}
+  - _alienEnemy: {instanceID: 0}
+  - _persecutionAlien: {instanceID: 0}
+  - _alienCannon: {instanceID: 0}
+  - _alienHardCannon: {instanceID: 0}
+  - _kamikaze: {instanceID: 0}
+  - _kamikazeCannon: {instanceID: 0}
+  - _motherShip: {instanceID: 0}
+  - _dropBombCannon: {instanceID: 0}
+  - _dropBomb: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

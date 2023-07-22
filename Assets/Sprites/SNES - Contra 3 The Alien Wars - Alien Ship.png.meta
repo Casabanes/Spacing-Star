@@ -1,0 +1,463 @@
+fileFormatVersion: 2
+guid: d61e9afec0cd5fb4d990f5639fcbcabe
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8873521005897066497
+    second: SNES - Contra 3 The Alien Wars - Alien Ship_0
+  - first:
+      213: -6754283593507698056
+    second: SNES - Contra 3 The Alien Wars - Alien Ship_1
+  - first:
+      213: 1177925810055670799
+    second: SNES - Contra 3 The Alien Wars - Alien Ship_2
+  - first:
+      213: 3439196360308033398
+    second: SNES - Contra 3 The Alien Wars - Alien Ship_3
+  - first:
+      213: -3852938617774314807
+    second: SNES - Contra 3 The Alien Wars - Alien Ship_4
+  - first:
+      213: 760772959297009279
+    second: SNES - Contra 3 The Alien Wars - Alien Ship_5
+  - first:
+      213: 4577261068713587853
+    second: SNES - Contra 3 The Alien Wars - Alien Ship_6
+  - first:
+      213: 8671592591104676902
+    second: SNES - Contra 3 The Alien Wars - Alien Ship_7
+  - first:
+      213: -5731296554111088109
+    second: SNES - Contra 3 The Alien Wars - Alien Ship_8
+  - first:
+      213: 2304717122284515370
+    second: SNES - Contra 3 The Alien Wars - Alien Ship_9
+  - first:
+      213: -189113973103250559
+    second: SNES - Contra 3 The Alien Wars - Alien Ship_10
+  - first:
+      213: 1605409179308022811
+    second: SNES - Contra 3 The Alien Wars - Alien Ship_11
+  - first:
+      213: -8239672818598518958
+    second: SNES - Contra 3 The Alien Wars - Alien Ship_12
+  - first:
+      213: -3699075758266191920
+    second: SNES - Contra 3 The Alien Wars - Alien Ship_13
+  - first:
+      213: 7050641644967894019
+    second: SNES - Contra 3 The Alien Wars - Alien Ship_14
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SNES - Contra 3 The Alien Wars - Alien Ship_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 48
+        width: 16
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1376fa59340c2034d9b0ed7114a63e42
+      internalID: -8873521005897066497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Contra 3 The Alien Wars - Alien Ship_1
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 48
+        width: 16
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f4946c464ce4e940bd08fd80f81c9f8
+      internalID: -6754283593507698056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Contra 3 The Alien Wars - Alien Ship_2
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 8
+        width: 104
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e36a3a8b244e804ba87fa102670b435
+      internalID: 1177925810055670799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Contra 3 The Alien Wars - Alien Ship_3
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 70
+        width: 1768
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6815ca66457de29488bbf69fa8f37ccd
+      internalID: 3439196360308033398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Contra 3 The Alien Wars - Alien Ship_4
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 56
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed383d8f811f95845b014732d7aa2a37
+      internalID: -3852938617774314807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Contra 3 The Alien Wars - Alien Ship_5
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 57
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beab52d324d7ecc4ca81089efef6b4c9
+      internalID: 760772959297009279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Contra 3 The Alien Wars - Alien Ship_6
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 68
+        width: 22
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: def33c12764a6ca4f96050b00f51d798
+      internalID: 4577261068713587853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Contra 3 The Alien Wars - Alien Ship_7
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 68
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ff28b69f5d04c14991ca1f491770f6c
+      internalID: 8671592591104676902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Contra 3 The Alien Wars - Alien Ship_8
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 68
+        width: 22
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6546294ec8471d341b314f30e4a4ed12
+      internalID: -5731296554111088109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Contra 3 The Alien Wars - Alien Ship_9
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 68
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dc13777c69120449b978ba1d6cd7705
+      internalID: 2304717122284515370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Contra 3 The Alien Wars - Alien Ship_10
+      rect:
+        serializedVersion: 2
+        x: 1683
+        y: 67
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 476659fa8a2565f48917f24ebae03e20
+      internalID: -189113973103250559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Contra 3 The Alien Wars - Alien Ship_11
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 59
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 488f42cd9140c5f48935a3dbcbed1c77
+      internalID: 1605409179308022811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Contra 3 The Alien Wars - Alien Ship_12
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 16
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 303f96950c096304286309af59d52c17
+      internalID: -8239672818598518958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Contra 3 The Alien Wars - Alien Ship_13
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 34
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c771b79aed2da4643b937c1b87247a29
+      internalID: -3699075758266191920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Contra 3 The Alien Wars - Alien Ship_14
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 8
+        width: 80
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e7fcfe80b9cd634ab13e9eddb1da32c
+      internalID: 7050641644967894019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,2215 @@
+fileFormatVersion: 2
+guid: 415b2dbfe637e5d4792179b46a3236be
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2033983326373629979
+    second: WonderSwan WSC - Judgement Silversword - Player Ship_0
+  - first:
+      213: -7385009121502274890
+    second: WonderSwan WSC - Judgement Silversword - Player Ship_1
+  - first:
+      213: -1965271546453427712
+    second: WonderSwan WSC - Judgement Silversword - Player Ship_2
+  - first:
+      213: 732986881616738283
+    second: WonderSwan WSC - Judgement Silversword - Player Ship_3
+  - first:
+      213: -8567285364627256347
+    second: WonderSwan WSC - Judgement Silversword - Player Ship_4
+  - first:
+      213: 4387344849841863351
+    second: WonderSwan WSC - Judgement Silversword - Player Ship_5
+  - first:
+      213: -6179699609095786163
+    second: WonderSwan WSC - Judgement Silversword - Player Ship_6
+  - first:
+      213: -623485753082388588
+    second: WonderSwan WSC - Judgement Silversword - Player Ship_7
+  - first:
+      213: -7031288404644463888
+    second: WonderSwan WSC - Judgement Silversword - Player Ship_8
+  - first:
+      213: 3263044380227421264
+    second: WonderSwan WSC - Judgement Silversword - Player Ship_9
+  - first:
+      213: 815452255239932706
+    second: WonderSwan WSC - Judgement Silversword - Player Ship_10
+  - first:
+      213: 1284184996430788058
+    second: WonderSwan WSC - Judgement Silversword - Player Ship_11
+  - first:
+      213: -2695530571020845627
+    second: WonderSwan WSC - Judgement Silversword - Player Ship_12
+  - first:
+      213: 5078095895377028621
+    second: WonderSwan WSC - Judgement Silversword - Player Ship_13
+  - first:
+      213: 1534945418107279329
+    second: WonderSwan WSC - Judgement Silversword - Player Ship_14
+  - first:
+      213: -7370503087483088629
+    second: WonderSwan WSC - Judgement Silversword - Player Ship_15
+  - first:
+      213: 917126181240338473
+    second: WonderSwan WSC - Judgement Silversword - Player Ship_16
+  - first:
+      213: 6879621341720735090
+    second: WonderSwan WSC - Judgement Silversword - Player Ship_17
+  - first:
+      213: -2408896676891261219
+    second: WonderSwan WSC - Judgement Silversword - Player Ship_18
+  - first:
+      213: -6676439657950665255
+    second: WonderSwan WSC - Judgement Silversword - Player Ship_19
+  - first:
+      213: -7130005842557218534
+    second: WonderSwan WSC - Judgement Silversword - Player Ship_20
+  - first:
+      213: -3966411483960551912
+    second: WonderSwan WSC - Judgement Silversword - Player Ship_21
+  - first:
+      213: 677278977120637885
+    second: WonderSwan WSC - Judgement Silversword - Player Ship_22
+  - first:
+      213: -1231349387027371140
+    second: WonderSwan WSC - Judgement Silversword - Player Ship_23
+  - first:
+      213: 242909177059459077
+    second: WonderSwan WSC - Judgement Silversword - Player Ship_24
+  - first:
+      213: 7856886897303083925
+    second: WonderSwan WSC - Judgement Silversword - Player Ship_25
+  - first:
+      213: 3315199455286349172
+    second: WonderSwan WSC - Judgement Silversword - Player Ship_26
+  - first:
+      213: 7616740636907947200
+    second: WonderSwan WSC - Judgement Silversword - Player Ship_27
+  - first:
+      213: 8997891573743577452
+    second: WonderSwan WSC - Judgement Silversword - Player Ship_28
+  - first:
+      213: 5133477010987964335
+    second: WonderSwan WSC - Judgement Silversword - Player Ship_29
+  - first:
+      213: -6952145162489544402
+    second: WonderSwan WSC - Judgement Silversword - Player Ship_30
+  - first:
+      213: -7958381539054482355
+    second: WonderSwan WSC - Judgement Silversword - Player Ship_31
+  - first:
+      213: 5268405167364607400
+    second: WonderSwan WSC - Judgement Silversword - Player Ship_32
+  - first:
+      213: 4144113927225216004
+    second: WonderSwan WSC - Judgement Silversword - Player Ship_33
+  - first:
+      213: -249222893260541390
+    second: WonderSwan WSC - Judgement Silversword - Player Ship_34
+  - first:
+      213: -8258914210195689134
+    second: WonderSwan WSC - Judgement Silversword - Player Ship_35
+  - first:
+      213: 8610793763552571441
+    second: WonderSwan WSC - Judgement Silversword - Player Ship_36
+  - first:
+      213: -529137865615126712
+    second: WonderSwan WSC - Judgement Silversword - Player Ship_37
+  - first:
+      213: 9160401397390714136
+    second: WonderSwan WSC - Judgement Silversword - Player Ship_38
+  - first:
+      213: 8675951290807679488
+    second: WonderSwan WSC - Judgement Silversword - Player Ship_39
+  - first:
+      213: -2064981308054031555
+    second: WonderSwan WSC - Judgement Silversword - Player Ship_40
+  - first:
+      213: -2368608413762474848
+    second: WonderSwan WSC - Judgement Silversword - Player Ship_41
+  - first:
+      213: -220303267691143990
+    second: WonderSwan WSC - Judgement Silversword - Player Ship_42
+  - first:
+      213: -867229214657092452
+    second: WonderSwan WSC - Judgement Silversword - Player Ship_43
+  - first:
+      213: 7733036603510516641
+    second: WonderSwan WSC - Judgement Silversword - Player Ship_44
+  - first:
+      213: -7062758463357409651
+    second: WonderSwan WSC - Judgement Silversword - Player Ship_45
+  - first:
+      213: -2250374029960855464
+    second: WonderSwan WSC - Judgement Silversword - Player Ship_46
+  - first:
+      213: 20717885631369754
+    second: WonderSwan WSC - Judgement Silversword - Player Ship_47
+  - first:
+      213: -5452845295171733419
+    second: WonderSwan WSC - Judgement Silversword - Player Ship_48
+  - first:
+      213: -6510820287991239753
+    second: WonderSwan WSC - Judgement Silversword - Player Ship_49
+  - first:
+      213: 2954216214933252075
+    second: WonderSwan WSC - Judgement Silversword - Player Ship_50
+  - first:
+      213: 8802755546063195293
+    second: WonderSwan WSC - Judgement Silversword - Player Ship_51
+  - first:
+      213: 6061892305120926640
+    second: WonderSwan WSC - Judgement Silversword - Player Ship_52
+  - first:
+      213: -646143934449148811
+    second: WonderSwan WSC - Judgement Silversword - Player Ship_53
+  - first:
+      213: 2480061104242237698
+    second: WonderSwan WSC - Judgement Silversword - Player Ship_54
+  - first:
+      213: 3352160013253479508
+    second: WonderSwan WSC - Judgement Silversword - Player Ship_55
+  - first:
+      213: 716337567629129601
+    second: WonderSwan WSC - Judgement Silversword - Player Ship_56
+  - first:
+      213: 6513740964174138859
+    second: WonderSwan WSC - Judgement Silversword - Player Ship_57
+  - first:
+      213: -9210165485370341717
+    second: WonderSwan WSC - Judgement Silversword - Player Ship_58
+  - first:
+      213: 7705514352767947118
+    second: WonderSwan WSC - Judgement Silversword - Player Ship_59
+  - first:
+      213: 8867791998744658320
+    second: WonderSwan WSC - Judgement Silversword - Player Ship_60
+  - first:
+      213: -1561237945804772955
+    second: WonderSwan WSC - Judgement Silversword - Player Ship_61
+  - first:
+      213: -3081095101333387758
+    second: WonderSwan WSC - Judgement Silversword - Player Ship_62
+  - first:
+      213: -2147521422761134090
+    second: WonderSwan WSC - Judgement Silversword - Player Ship_63
+  - first:
+      213: -3361788256043290727
+    second: WonderSwan WSC - Judgement Silversword - Player Ship_64
+  - first:
+      213: -1752045322249271826
+    second: WonderSwan WSC - Judgement Silversword - Player Ship_65
+  - first:
+      213: 4654308410156451940
+    second: WonderSwan WSC - Judgement Silversword - Player Ship_66
+  - first:
+      213: 9049986028503442931
+    second: WonderSwan WSC - Judgement Silversword - Player Ship_67
+  - first:
+      213: 4747591571105221644
+    second: WonderSwan WSC - Judgement Silversword - Player Ship_68
+  - first:
+      213: -2054021437453052161
+    second: WonderSwan WSC - Judgement Silversword - Player Ship_69
+  - first:
+      213: 155723970581355306
+    second: WonderSwan WSC - Judgement Silversword - Player Ship_70
+  - first:
+      213: 9021050541058940383
+    second: WonderSwan WSC - Judgement Silversword - Player Ship_71
+  - first:
+      213: 8793083796345545178
+    second: WonderSwan WSC - Judgement Silversword - Player Ship_72
+  - first:
+      213: -6070206409521285
+    second: WonderSwan WSC - Judgement Silversword - Player Ship_73
+  - first:
+      213: 8626149942073231382
+    second: WonderSwan WSC - Judgement Silversword - Player Ship_74
+  - first:
+      213: -992519460093998697
+    second: WonderSwan WSC - Judgement Silversword - Player Ship_75
+  - first:
+      213: 2744646728628321593
+    second: WonderSwan WSC - Judgement Silversword - Player Ship_76
+  - first:
+      213: 8902101745662332387
+    second: WonderSwan WSC - Judgement Silversword - Player Ship_77
+  - first:
+      213: 2801211216265898826
+    second: WonderSwan WSC - Judgement Silversword - Player Ship_78
+  - first:
+      213: 4994214608277238298
+    second: WonderSwan WSC - Judgement Silversword - Player Ship_79
+  - first:
+      213: 7405725657513020424
+    second: WonderSwan WSC - Judgement Silversword - Player Ship_80
+  - first:
+      213: 7661582814628278241
+    second: WonderSwan WSC - Judgement Silversword - Player Ship_81
+  - first:
+      213: 809272822160615854
+    second: WonderSwan WSC - Judgement Silversword - Player Ship_82
+  - first:
+      213: 1904330067058886132
+    second: WonderSwan WSC - Judgement Silversword - Player Ship_83
+  - first:
+      213: -2729805213324468487
+    second: WonderSwan WSC - Judgement Silversword - Player Ship_84
+  - first:
+      213: 1439177526833904133
+    second: WonderSwan WSC - Judgement Silversword - Player Ship_85
+  - first:
+      213: -3104682851299062156
+    second: WonderSwan WSC - Judgement Silversword - Player Ship_86
+  - first:
+      213: 8259649449675143708
+    second: WonderSwan WSC - Judgement Silversword - Player Ship_87
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WonderSwan WSC - Judgement Silversword - Player Ship_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 78
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d75a80e342fd1f34b8f8108156ac1228
+      internalID: 2033983326373629979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WonderSwan WSC - Judgement Silversword - Player Ship_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 78
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53d3daa5dd1b4f34fb1802a5847d6c18
+      internalID: -7385009121502274890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WonderSwan WSC - Judgement Silversword - Player Ship_2
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 78
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4fc40cc3c791e2409230240617c0bb8
+      internalID: -1965271546453427712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WonderSwan WSC - Judgement Silversword - Player Ship_3
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 78
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 403c9072a7edc5b448dde2340c665fc0
+      internalID: 732986881616738283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WonderSwan WSC - Judgement Silversword - Player Ship_4
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 78
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65e858eebf9c30042833c8fbe3858948
+      internalID: -8567285364627256347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WonderSwan WSC - Judgement Silversword - Player Ship_5
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 56
+        width: 18
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f19a260b12649634897542231578bc33
+      internalID: 4387344849841863351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WonderSwan WSC - Judgement Silversword - Player Ship_6
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 53
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 054b55e944817fe4db49f86e3820c712
+      internalID: -6179699609095786163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WonderSwan WSC - Judgement Silversword - Player Ship_7
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 89
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e966c4fe5cfc97438c229e63955f0d8
+      internalID: -623485753082388588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WonderSwan WSC - Judgement Silversword - Player Ship_8
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 89
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8274738f4a8b61479a66a26179cb387
+      internalID: -7031288404644463888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WonderSwan WSC - Judgement Silversword - Player Ship_9
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 89
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb6c29d8cd692a843997f3487eee36fb
+      internalID: 3263044380227421264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WonderSwan WSC - Judgement Silversword - Player Ship_10
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 89
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f06d6926ca4471c44a9a1d4d74fcf462
+      internalID: 815452255239932706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WonderSwan WSC - Judgement Silversword - Player Ship_11
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 89
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01592cb85c27fef4c9dffe72dd79325f
+      internalID: 1284184996430788058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WonderSwan WSC - Judgement Silversword - Player Ship_12
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 50
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9de8a2276f972c41b62894c0d2afa69
+      internalID: -2695530571020845627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WonderSwan WSC - Judgement Silversword - Player Ship_13
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 50
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caede7c54851a164881cb28aa7def1f2
+      internalID: 5078095895377028621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WonderSwan WSC - Judgement Silversword - Player Ship_14
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 50
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e1947b56567ff64eb8e0bae87e3f1de
+      internalID: 1534945418107279329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WonderSwan WSC - Judgement Silversword - Player Ship_15
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 50
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e7171d6df7dcae4fa6afcdc0f32ceb5
+      internalID: -7370503087483088629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WonderSwan WSC - Judgement Silversword - Player Ship_16
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 50
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e792b32e70b35474bb1262eec2f40977
+      internalID: 917126181240338473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WonderSwan WSC - Judgement Silversword - Player Ship_17
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 57
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5119671440c8d0943b135751b30e31a7
+      internalID: 6879621341720735090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WonderSwan WSC - Judgement Silversword - Player Ship_18
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 67
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecd5ad039cf738e43b5242aa53d3e166
+      internalID: -2408896676891261219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WonderSwan WSC - Judgement Silversword - Player Ship_19
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 55
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c683db98d161b4243a726ab8e14cf629
+      internalID: -6676439657950665255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WonderSwan WSC - Judgement Silversword - Player Ship_20
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 38
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76ffd0812b24cc94c849de442f21fe66
+      internalID: -7130005842557218534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WonderSwan WSC - Judgement Silversword - Player Ship_21
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 38
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1d2d97510d4697478f40b41ef031968
+      internalID: -3966411483960551912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WonderSwan WSC - Judgement Silversword - Player Ship_22
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 36
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9f6a62a1a11158418bf8b766d3031bd
+      internalID: 677278977120637885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WonderSwan WSC - Judgement Silversword - Player Ship_23
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 38
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79f37790dc54fd448a2927a319b46f6b
+      internalID: -1231349387027371140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WonderSwan WSC - Judgement Silversword - Player Ship_24
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 38
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6760416c856654b4fa747052a3479ff9
+      internalID: 242909177059459077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WonderSwan WSC - Judgement Silversword - Player Ship_25
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 38
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 478e43d68d826b54394bbf41558f7a35
+      internalID: 7856886897303083925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WonderSwan WSC - Judgement Silversword - Player Ship_26
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 36
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe5cffe1aee35df44b1df111110d6d3e
+      internalID: 3315199455286349172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WonderSwan WSC - Judgement Silversword - Player Ship_27
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 38
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e569953abaa430e49b38513d4fdec50c
+      internalID: 7616740636907947200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WonderSwan WSC - Judgement Silversword - Player Ship_28
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 38
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0a5254549f2a454581cc0cbcad024e2
+      internalID: 8997891573743577452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WonderSwan WSC - Judgement Silversword - Player Ship_29
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 38
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5003e8311e4180445858a43c0e33ba26
+      internalID: 5133477010987964335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WonderSwan WSC - Judgement Silversword - Player Ship_30
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 38
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2de555b93b738c4ebc1d09521adf062
+      internalID: -6952145162489544402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WonderSwan WSC - Judgement Silversword - Player Ship_31
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 38
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba7604d1d5bcbd14387843dbcde5513d
+      internalID: -7958381539054482355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WonderSwan WSC - Judgement Silversword - Player Ship_32
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 38
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 642034c18c4320440954b6471364ff98
+      internalID: 5268405167364607400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WonderSwan WSC - Judgement Silversword - Player Ship_33
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 36
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5cda5ffe37a0484d82dff54deb11d0a
+      internalID: 4144113927225216004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WonderSwan WSC - Judgement Silversword - Player Ship_34
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 38
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a2c13ab37de07348acf0ead548ab854
+      internalID: -249222893260541390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WonderSwan WSC - Judgement Silversword - Player Ship_35
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 38
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2956a097a3a3df84fa3e486076b3141e
+      internalID: -8258914210195689134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WonderSwan WSC - Judgement Silversword - Player Ship_36
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 38
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 716a6fc63244e90499379095bad3dc72
+      internalID: 8610793763552571441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WonderSwan WSC - Judgement Silversword - Player Ship_37
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 38
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79f849c457f6e7e45b8d4fe4bb23cc66
+      internalID: -529137865615126712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WonderSwan WSC - Judgement Silversword - Player Ship_38
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 38
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac1be7947dbd1c441a041d4e47d3c7ed
+      internalID: 9160401397390714136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WonderSwan WSC - Judgement Silversword - Player Ship_39
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 38
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e9caa069bce3ad4b8496de95a634a3b
+      internalID: 8675951290807679488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WonderSwan WSC - Judgement Silversword - Player Ship_40
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 38
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eab875c4143c0a244b158fb5c442650f
+      internalID: -2064981308054031555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WonderSwan WSC - Judgement Silversword - Player Ship_41
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 38
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da7ac1970dc176849a7bf02110bcecd2
+      internalID: -2368608413762474848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WonderSwan WSC - Judgement Silversword - Player Ship_42
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 27
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15f517336964e1449856f4a6fec1400f
+      internalID: -220303267691143990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WonderSwan WSC - Judgement Silversword - Player Ship_43
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 38
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22d1288db97be114393b17c7119f541f
+      internalID: -867229214657092452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WonderSwan WSC - Judgement Silversword - Player Ship_44
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 38
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8948f42219cc8004c8b98fb1abf9f249
+      internalID: 7733036603510516641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WonderSwan WSC - Judgement Silversword - Player Ship_45
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 38
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ccec88b5f279894f8b63b8c303bbb7d
+      internalID: -7062758463357409651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WonderSwan WSC - Judgement Silversword - Player Ship_46
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 27
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c2293c404d38f541b0a3cfb786f0b25
+      internalID: -2250374029960855464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WonderSwan WSC - Judgement Silversword - Player Ship_47
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 25
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a78784eee6bcd194b907e3ebbb7285f3
+      internalID: 20717885631369754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WonderSwan WSC - Judgement Silversword - Player Ship_48
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 25
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a408554bcc1c1344a3e46258ddcaf29
+      internalID: -5452845295171733419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WonderSwan WSC - Judgement Silversword - Player Ship_49
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 27
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea45ede39f29d57449a617dbeae14f98
+      internalID: -6510820287991239753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WonderSwan WSC - Judgement Silversword - Player Ship_50
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 27
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c81edd591b9249b48abc572ef9b4b2a6
+      internalID: 2954216214933252075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WonderSwan WSC - Judgement Silversword - Player Ship_51
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 27
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 858ffbe4c319be04891236dc7c9ec69e
+      internalID: 8802755546063195293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WonderSwan WSC - Judgement Silversword - Player Ship_52
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 25
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62d417288a7bb95418dae5ab33b934da
+      internalID: 6061892305120926640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WonderSwan WSC - Judgement Silversword - Player Ship_53
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 27
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e12eb8e3bf922c7488d36328c9e546dc
+      internalID: -646143934449148811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WonderSwan WSC - Judgement Silversword - Player Ship_54
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 17
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 051b4e75545e0a249be4334d5cbe06e9
+      internalID: 2480061104242237698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WonderSwan WSC - Judgement Silversword - Player Ship_55
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 27
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e81ddf6a1059a814db1eae6b31b42cf6
+      internalID: 3352160013253479508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WonderSwan WSC - Judgement Silversword - Player Ship_56
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 27
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3efd58cd16060d4f97f123bcc638f0d
+      internalID: 716337567629129601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WonderSwan WSC - Judgement Silversword - Player Ship_57
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 25
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43985109352d05c41a11269e7941b86d
+      internalID: 6513740964174138859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WonderSwan WSC - Judgement Silversword - Player Ship_58
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 27
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8418d9f5a930a2c44b5ad2e249a8942c
+      internalID: -9210165485370341717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WonderSwan WSC - Judgement Silversword - Player Ship_59
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 27
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ce47e62145782b47afd4b0b8d279bfa
+      internalID: 7705514352767947118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WonderSwan WSC - Judgement Silversword - Player Ship_60
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 27
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25c29d08df1dd1e429d8e3863fed182f
+      internalID: 8867791998744658320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WonderSwan WSC - Judgement Silversword - Player Ship_61
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 27
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81ade96e05b59b4458f651a840c492a3
+      internalID: -1561237945804772955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WonderSwan WSC - Judgement Silversword - Player Ship_62
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 17
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8324c18c6dbd78c4fae38e0bafb474c1
+      internalID: -3081095101333387758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WonderSwan WSC - Judgement Silversword - Player Ship_63
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 17
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0259c9407538b74786938638c3a579f
+      internalID: -2147521422761134090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WonderSwan WSC - Judgement Silversword - Player Ship_64
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 15
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4391e273825e9e48a4830c1ebfd5149
+      internalID: -3361788256043290727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WonderSwan WSC - Judgement Silversword - Player Ship_65
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 15
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d23841fce11698a4680695e95f54778e
+      internalID: -1752045322249271826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WonderSwan WSC - Judgement Silversword - Player Ship_66
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 15
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31379ecad7ed68d47a4d6c2e7c3997c4
+      internalID: 4654308410156451940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WonderSwan WSC - Judgement Silversword - Player Ship_67
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 17
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc430efee0de27648ba6819d39f61a1b
+      internalID: 9049986028503442931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WonderSwan WSC - Judgement Silversword - Player Ship_68
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 17
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d72685c1768bc84a8ddbf2c6a1e1a71
+      internalID: 4747591571105221644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WonderSwan WSC - Judgement Silversword - Player Ship_69
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 17
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8a81ee0ac47d1a43be6905fffec3686
+      internalID: -2054021437453052161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WonderSwan WSC - Judgement Silversword - Player Ship_70
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 17
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 625d50b54536d3b4994e26022f6b2959
+      internalID: 155723970581355306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WonderSwan WSC - Judgement Silversword - Player Ship_71
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 17
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f2e099f422bc124eaf8851f4318fa18
+      internalID: 9021050541058940383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WonderSwan WSC - Judgement Silversword - Player Ship_72
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 6
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bf3700769d3274458e0e2e89ae998d8
+      internalID: 8793083796345545178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WonderSwan WSC - Judgement Silversword - Player Ship_73
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 6
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6534bcd9e23db74e84618b2f8b88ad7
+      internalID: -6070206409521285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WonderSwan WSC - Judgement Silversword - Player Ship_74
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 6
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d625eff897675ff46b410b84ebfb3023
+      internalID: 8626149942073231382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WonderSwan WSC - Judgement Silversword - Player Ship_75
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 6
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f8620c3b01853b48901997627263236
+      internalID: -992519460093998697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WonderSwan WSC - Judgement Silversword - Player Ship_76
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 6
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99e12b82101912240941f0f97233b97c
+      internalID: 2744646728628321593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WonderSwan WSC - Judgement Silversword - Player Ship_77
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 6
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b5ae1a9bf019c24986ffa4ab68c9122
+      internalID: 8902101745662332387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WonderSwan WSC - Judgement Silversword - Player Ship_78
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 6
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51f4d47f656003547908633e6ee67ac1
+      internalID: 2801211216265898826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WonderSwan WSC - Judgement Silversword - Player Ship_79
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 6
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a09f283d261eb974882c8d00910e57aa
+      internalID: 4994214608277238298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WonderSwan WSC - Judgement Silversword - Player Ship_80
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 6
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6a57caa7a1f0a44b9e56d66d8ac17a6
+      internalID: 7405725657513020424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WonderSwan WSC - Judgement Silversword - Player Ship_81
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 6
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b9eb7761495d704db42771a02d78038
+      internalID: 7661582814628278241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WonderSwan WSC - Judgement Silversword - Player Ship_82
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 6
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bfadad4f7d97494a951fdf19e1ec2a6
+      internalID: 809272822160615854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WonderSwan WSC - Judgement Silversword - Player Ship_83
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 6
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7701f3c674de58b4381abde915a29d29
+      internalID: 1904330067058886132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WonderSwan WSC - Judgement Silversword - Player Ship_84
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 6
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7532e16c1f9d3aa4da9929cd9b90dfec
+      internalID: -2729805213324468487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WonderSwan WSC - Judgement Silversword - Player Ship_85
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 6
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3b12d7a60075ba4d9a7a1dee875382d
+      internalID: 1439177526833904133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WonderSwan WSC - Judgement Silversword - Player Ship_86
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 6
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bcd54689e220b84997a2deae5a3fbde
+      internalID: -3104682851299062156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WonderSwan WSC - Judgement Silversword - Player Ship_87
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 4
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1515b360c5278a24dad32ca06e1c5984
+      internalID: 8259649449675143708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
